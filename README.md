@@ -2,7 +2,7 @@
 
 UI Theme 
 
-[![Preview](http://postimg.org/image/59pj8wfrl/](#preview)
+![Preview](http://s24.postimg.org/83somchxx/Screen_Shot_2013_08_15_at_2_38_25_PM.png)
 
 ## Installation
 
