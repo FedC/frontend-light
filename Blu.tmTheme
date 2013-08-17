@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
   <key>name</key>
-  <string>Frontend Light</string>
+  <string>Frontend Light - Blu</string>
   <key>settings</key>
   <array>
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#f8f4e3</string>
+        <string>#dff9fb</string>
         <key>caret</key>
         <string>#ECECECE</string>
         <key>foreground</key>
