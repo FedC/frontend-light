@@ -8,6 +8,7 @@ UI Theme
 
 ![Mint](http://s7.postimg.org/hjfn0c6l7/Screen_Shot_2013_08_17_at_2_36_32_PM.png)
 
+![Minty Night](http://s21.postimg.org/yyi54gf3b/Screen_Shot_2013_08_17_at_3_07_45_PM.png)
 
 ## Installation
 
