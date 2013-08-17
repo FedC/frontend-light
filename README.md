@@ -2,7 +2,12 @@
 
 UI Theme 
 
-![Preview](http://s24.postimg.org/83somchxx/Screen_Shot_2013_08_15_at_2_38_25_PM.png)
+![Coffe Flavor](http://s21.postimg.org/sxew3cspz/Screen_Shot_2013_08_17_at_2_40_00_PM.png)
+
+![Grey](http://s21.postimg.org/7autp7ntz/Screen_Shot_2013_08_17_at_2_36_48_PM.png)
+
+![Mint](http://s7.postimg.org/hjfn0c6l7/Screen_Shot_2013_08_17_at_2_36_32_PM.png)
+
 
 ## Installation
 
