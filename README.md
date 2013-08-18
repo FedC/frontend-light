@@ -12,6 +12,18 @@ UI Theme
 
 ## Installation
 
+Frontend Light is a Sublime package. There are several ways to install it.
+
+### Sublime Package Control
+You can install it using the excellent [Package Control][] package manager for Sublime Text:
+
+1. Open "Package Control: Install Package" from the Sublime quick menu (Command-Shift-P).
+2. Select the 'Frontend Light Color Scheme' option to install.
+
+[Package Control]: http://wbond.net/sublime_packages/package_control
+
+### Manual Installation
+
 Download folder and move to /Library/Application\ Support/Sublime\ Text\ 2/Packages/
 
 
