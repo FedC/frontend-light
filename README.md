@@ -4,7 +4,7 @@ UI Theme
 
 ![Coffe Flavor](http://s21.postimg.org/sxew3cspz/Screen_Shot_2013_08_17_at_2_40_00_PM.png)
 
-![Grey](http://s8.postimg.org/fgxu4fwfp/Screen_Shot_2013_08_18_at_5_48_40_PM.png)
+![Grey](http://s14.postimg.org/7xn1480wh/grey.png)
 
 ![Mint](http://s7.postimg.org/hjfn0c6l7/Screen_Shot_2013_08_17_at_2_36_32_PM.png)
 
