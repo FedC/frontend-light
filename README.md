@@ -1,17 +1,15 @@
 # Sublime Text 2 - Frontend Light
 
-UI Theme 
-
-# My Favorite: 'Grey'
+## My Favorite: 'Grey'
 ![Grey](http://s14.postimg.org/7xn1480wh/grey.png)
 
 # 'Coffee Flavor'
 ![Coffee Flavor](http://s21.postimg.org/sxew3cspz/Screen_Shot_2013_08_17_at_2_40_00_PM.png)
 
-# 'Mint'
+## 'Mint'
 ![Mint](http://s7.postimg.org/hjfn0c6l7/Screen_Shot_2013_08_17_at_2_36_32_PM.png)
 
-# 'Minty Night'
+## 'Minty Night'
 ![Minty Night](http://s21.postimg.org/yyi54gf3b/Screen_Shot_2013_08_17_at_3_07_45_PM.png)
 
 
